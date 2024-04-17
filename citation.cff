@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you deploy this extension, you can cite it as below."
+authors:
+- family-names: Fardin
+  given-names: Fardin
+title: "linkedin-autoconnect"
+version: 1.0.0
+url: "https://github.com/FardinHash/linkedin-autoconnect"
